@@ -1,6 +1,4 @@
 # Swiggy_clone
-# Swiggy Clone
-
 Check the live website here : [Link](https://swiggy-clone-nine.vercel.app/)
 
 ## About Swiggy Clone
